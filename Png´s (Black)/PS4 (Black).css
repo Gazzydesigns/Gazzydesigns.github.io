@@ -92,14 +92,6 @@
     background: url(Meta.png) no-repeat center;
 }
 
-.ds4 .arrows {
-    position: absolute;
-    width: 352px;
-    height: 46px;
-    top: 142px;
-    left: 227px;
-}
-
 .ds4 .back, .ds4 .start {
     background: url(Start.png);
     width: 28px;
